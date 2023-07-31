@@ -1,0 +1,152 @@
+.antd-card{
+    height: 80px;
+}
+.antd-card1{
+    width: 1350px;
+    float: right;
+    height: 300px;
+    margin: 20px;
+}
+.antd-card2{
+    margin-top: 350px;
+    width: 650px;
+    height: 400px;
+    margin-left: 535px;
+}
+.antd-card3{
+    position: absolute;
+    width: 650px;
+    height: 400px;
+    margin-left: 720px;
+    margin-top: 350px;
+}
+.antd-card4{
+    width: 1350px;
+    height: 750px;
+    margin-top: 40px;
+    margin-left: 535px;
+
+}
+.antd-card5{
+    width: 450px;
+    margin-left: 40px;
+    position: absolute;
+    top: 100px;
+    height: 1100px;
+}
+.setup-button{
+    background-color:#660066 !important;
+    color: #fff;
+    margin-left: 1500px;
+}
+.set-name{
+    margin-left: 90px;
+}
+.set-font{
+    font-size: 25px;
+    font-weight: bold;
+}
+.set-para{
+    font-size: 16px;
+    margin-top: 15px;
+    font-weight: 500;
+    margin-left: 50px;
+}
+
+.set-avatar{
+    position: absolute;
+    width:50px;
+    height:50px;
+    border-Radius:50px;
+    background-Color:#6a347d;
+   margin-left: 1000px;
+   }  
+   .set-icon{
+    font-Size:30px;
+    padding:10px;
+    color:white;
+   }
+.ExclamationCircleOutlined {
+   color: red;
+   background-color: yellow;
+   }
+   .set-span{
+    color: red;
+    font-weight: 500;
+    font-size:15px;
+    margin-left: 5px;
+   }
+   .set-para1{
+    font-size: 16px;
+    margin-top: 15px;
+    font-weight: 500;
+    margin-left: 50px;
+   }
+   .btn{
+    margin-left: 380px;
+    color: cornflowerblue;
+    font-size: 10px;
+   }
+   .UserOutlined{
+    padding-top: 20px;
+   }
+   .UserOutlined1{
+    padding-top: 25px;
+    margin-left: 10px;
+    font-weight: 600;
+}
+.UserOutlined2{
+    padding-top: 25px;
+    margin-left: 30px;
+   color:#660066;
+}
+.set-para2{
+    padding-top: 50px;
+    margin-left: 50px;
+    position: absolute;
+    font-size: 15px;
+    color: gray;
+}
+.UserOutlined3{
+    padding-top: 25px;
+    margin-left: 315px;
+    color: gray;
+}
+.UserOutlined4{
+    padding-top: 25px;
+    margin-left: 30px;
+   /* background-color: yellow; */
+   background-origin: border-box;
+}
+.UserOutlined5{
+    padding-top: 25px;
+    margin-left: 335px;
+    color: gray;
+}
+.set-input{
+    padding-top: 40px;
+    margin: 30px;
+    margin-left: 50px;
+    width: 900px;
+}
+.setclass{
+    font-weight:500;
+    font-size: 16px;
+}
+.avatar-uploader{
+    margin-left: 100px;
+}
+.set-class1{
+     color: gray;
+     font-Size: 15px 
+}
+.set-class2{
+    color: gray;
+    font-Size: 15px;
+    top: 20px
+}
+.set-class3{
+    font-Size: 16px;
+     font-Weight: 500;
+     color: #000
+}
